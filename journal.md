@@ -14,3 +14,8 @@ I managed to find a free web-hosting service and learnt how to use Joomla. It is
 
 Description:  
 I learnt how to use Wordpress this week, compared to Joomla last week, Wordpress is more intuitive, easier to learn and use. There are many Wordpress resource out there that really help mastering on using Wordpress.
+
+# 15/6/2024 - week 4: Deployment
+
+Description:  
+For deployment, I used Local by Flywheel. The set up is quite easy and simple. I continue to work on my wordpress site.

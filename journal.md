@@ -19,3 +19,8 @@ I learnt how to use Wordpress this week, compared to Joomla last week, Wordpress
 
 Description:  
 For deployment, I used Local by Flywheel. The set up is quite easy and simple. I continue to work on my wordpress site.
+
+# 22/6/2024 - week 5: Child theme
+
+Description:  
+By following the wordpress document provided, I have a bit of an idea on how to create a child theme. However, I still need to learn more on how to use the child theme efficiently, as so far, my child theme doesn't really up to my expectation. 

@@ -33,4 +33,4 @@ Together with my team, we set up our Slack channel, Trello and github. In the gr
 # 18/7/2024 - week 7: PHP Programming
 
 Description:  
-
+PHP is actually not that hard, I was quite surprised. The syntax in a way reminded me of bash and python. I managed to write an input and output for some of the files, however I feel like I need a bit more training before I can really feel confidence in this

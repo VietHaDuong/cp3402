@@ -34,3 +34,8 @@ Together with my team, we set up our Slack channel, Trello and github. In the gr
 
 Description:  
 PHP is actually not that hard, I was quite surprised. The syntax in a way reminded me of bash and python. I managed to write an input and output for some of the files, however I feel like I need a bit more training before I can really feel confidence in this
+
+# 28/7/2024 - week 8: WordPress Custom Themes
+
+Description:  
+Creating a theme from scratch allows me to have full control over customising what I want. However, it is also more complex than an existed theme, as there are new learning curves which will required more time to do research and develop. And there are more effort required in maintaining the theme.

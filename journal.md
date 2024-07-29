@@ -16,7 +16,7 @@ Description:
 I learnt how to use Wordpress this week, compared to Joomla last week, Wordpress is more intuitive, easier to learn and use. There are many Wordpress resource out there that really help mastering on using Wordpress.
 
 # 15/6/2024 - week 4: Deployment
-
+/
 Description:  
 For deployment, I used Local by Flywheel. The set up is quite easy and simple. I continue to work on my wordpress site.
 
@@ -39,3 +39,8 @@ PHP is actually not that hard, I was quite surprised. The syntax in a way remind
 
 Description:  
 Creating a theme from scratch allows me to have full control over customising what I want. However, it is also more complex than an existed theme, as there are new learning curves which will required more time to do research and develop. And there are more effort required in maintaining the theme.
+
+# 29/7/2024 -  week 9: Sass
+
+Description:  
+Sass and Scss help me breaking down CSS stylesheet into small, manageable parts. It is also easier to maintain and update the code in the future. In conclusion, sass help me write cleaner, more structure and scalable stylesheet which will improve my project as a whole.

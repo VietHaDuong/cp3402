@@ -44,3 +44,8 @@ Creating a theme from scratch allows me to have full control over customising wh
 
 Description:  
 Sass and Scss help me breaking down CSS stylesheet into small, manageable parts. It is also easier to maintain and update the code in the future. In conclusion, sass help me write cleaner, more structure and scalable stylesheet which will improve my project as a whole.
+
+# 12/8/2024 - week 10: Securing Wordpress
+
+Description:  
+I learnt about the vulnerabilities when leaving the Wordpress site untouch. By implementing best practices for WordPress security is crucial to protect my site, my data, and my visitors. I'm researching the top vulnerabilities and effective steps I can take to harden my WordPress installation.
